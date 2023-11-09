@@ -1,0 +1,5 @@
+Github Token - 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
+
+Add the environment variable to the path variable
+C:\Program Files\Git\cmd\
+C:\Program Files\Git\bin\
